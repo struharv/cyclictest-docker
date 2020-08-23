@@ -1,3 +1,14 @@
 *.a
 *.o
-
+cyclictest
+hwlatdetect
+hackbench
+pip_stress
+pi_stress
+pmqtest
+ptsematest
+rt-migrate-test
+sendme
+signaltest
+sigwaittest
+svsematest
